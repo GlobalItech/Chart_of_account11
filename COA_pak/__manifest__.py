@@ -7,8 +7,8 @@
 #
 ##############################################################################
 {
-    'name': "Pakistan Chart of Account",
-    'summary': """
+    'name': "Pakistan Chart of Accounts ",
+    'summary': "This module only for odoo11Community"
         Adds Parent account and ability to open chart of account list view based on the date and moves""",
     'description': """
         * Adds parent account in account
@@ -21,7 +21,7 @@
     Contact us for any need of customisation or chart of account .
     """,
 
-    'author': 'Itech Resources',
+    'author': 'Itech Resources,Steigend IT Solutions',
     'website': 'http://itechresources.net/',
     'category': 'Accounting &amp; Finance',
     'license': "AGPL-3",
