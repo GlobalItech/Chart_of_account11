@@ -8,7 +8,7 @@
 ##############################################################################
 {
     'name': "Pakistan Chart of Accounts ",
-    'summary': "This module only for odoo11Community"
+    'summary': """This module only for odoo11Community
         Adds Parent account and ability to open chart of account list view based on the date and moves""",
     'description': """
         * Adds parent account in account
