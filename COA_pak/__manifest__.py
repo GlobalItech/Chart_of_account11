@@ -25,7 +25,7 @@
     'website': 'http://itechresources.net/',
     'category': 'Accounting &amp; Finance',
     'license': "AGPL-3",
-    'version': '11.2.1',
+    'version': '11.0.0',
     'depends': ['base', 'account_accountant_cbc'],
     'data': [
         'security/account_parent_security.xml',
